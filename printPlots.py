@@ -38,14 +38,14 @@ def nmpcPlotSol(u_new,path,drawLPPath,x0,obstacle):
         plt.plot(path.pathData.PathEndPoint[0], path.pathData.PathEndPoint[1], marker='o', markersize=8, color='g')
 
         if True:
-            # plt.plot(path.pathData.PathRightEndPointsE, path.pathData.PathRightEndPointsN,'m+')
-            # plt.plot(path.pathData.PathLeftEndPointsE, path.pathData.PathLeftEndPointsN,'m+')
-            #
-            # x1 = path.pathData.PathRightEndPointsE
-            # x2 = path.pathData.PathLeftEndPointsE
-            # y1 = path.pathData.PathRightEndPointsN
-            # y2 = path.pathData.PathLeftEndPointsN
-            # plt.plot(x1, y1, 'm', x2, y2, 'm')
+            plt.plot(path.pathData.PathRightEndPointsE, path.pathData.PathRightEndPointsN,'m+')
+            plt.plot(path.pathData.PathLeftEndPointsE, path.pathData.PathLeftEndPointsN,'m+')
+
+            x1 = path.pathData.PathRightEndPointsE
+            x2 = path.pathData.PathLeftEndPointsE
+            y1 = path.pathData.PathRightEndPointsN
+            y2 = path.pathData.PathLeftEndPointsN
+            plt.plot(x1, y1, 'm', x2, y2, 'm')
 
             x1 = path.pathData.PathCenterEndPointsE - pdata.delta_yRoad*np.sin(path.pathData.Theta_endpoints)
             x2 = path.pathData.PathCenterEndPointsE + pdata.delta_yRoad*np.sin(path.pathData.Theta_endpoints)

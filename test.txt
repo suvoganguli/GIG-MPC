@@ -1,0 +1,1161 @@
+commit a600d56207ad6969ab8e804975037f5b5d577546
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Mon Jun 18 09:55:00 2018 -0400
+
+    cleaned up directory
+
+commit 6456242476a5d718ed198973db9823fb58b18924
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Mon Jun 18 09:46:59 2018 -0400
+
+    Completed final presentation
+
+commit 41adbdbc046f94d27691bb5f30ed208c9ca67c5d
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Thu Jun 14 11:36:13 2018 -0400
+
+    Almost complete (except for Future Work)
+
+commit a8d7b4576af32a3d672dd155107a42a155cce704
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Mon Jun 11 10:32:57 2018 -0400
+
+    modified ppt file
+
+commit 5584c5828fc6ab7585cbbcf55ebf3607c85ae0bf
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Mon Jun 11 10:03:20 2018 -0400
+
+    start of 2018-06-11
+
+commit 28efed7897874a82dd7d7273bdd7f3c657b6b25b
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Jun 8 13:25:08 2018 -0400
+
+    all 100 runs done
+
+commit 4caf4752bbe777a190b443ec49ba6b11d823f320
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Jun 8 13:23:34 2018 -0400
+
+    updated slides with specific tests
+
+commit 1f699c2e47f6def08b92267af3e78b9eab848665
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Jun 8 12:22:22 2018 -0400
+
+    21 of last 25 iterations are done
+
+commit e5057a1138cca3c7a6ccbb0a715ac26972d3ad48
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Jun 8 08:31:48 2018 -0400
+
+    75 runs completed
+
+commit 4820110a4281457669a56dfc8cf3f23ba4619e07
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu Jun 7 21:20:03 2018 -0400
+
+    ran 10 batch runs - everything ok, not bad cases
+
+commit 4b84d9d116cf459340e7fcfe4a8cc91c61a2c9bd
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu Jun 7 19:15:10 2018 -0400
+
+    working - all changes made for batch run, needs to clean up code later on
+
+commit 25d0f8bb75e6bedd49322aa34872916fdb47b3a8
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu Jun 7 15:26:56 2018 -0400
+
+    changes for random number of obstacles almost done
+
+commit b2f12cc0e54d1254ed84b411176172f4fec7ddd7
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu Jun 7 13:19:54 2018 -0400
+
+    working - in the middle of adding code for random obstacles
+
+commit 7ba580867080006ed7083f763ca6ee318df9b619
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Thu Jun 7 11:01:43 2018 -0400
+
+    Added Final Review Presentation Template
+
+commit 12772c62dee59dce1e462df7e71446192133790a
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed Jun 6 15:19:05 2018 -0400
+
+    slow down and stop with 7 obstacles
+
+commit 00913ab884ad619f728624a92b4d62bf4bbe126d
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed Jun 6 15:15:29 2018 -0400
+
+    slow down and stop with 7 obstacles
+
+commit 20f293461363b6968f406ecca7f7fef5e6f43579
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Mon Jun 4 11:38:53 2018 -0400
+
+    working for 1, 5, 7 obstacles with widened detection window
+
+commit da66f70f1144daf31a881e0aa74c37bec66721bb
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Mon Jun 4 10:46:07 2018 -0400
+
+    debuggin ... need to get the code forprevious working version of nlp.py
+
+commit 9819d9f88c5c12557a04ce754815a7e02d8f042b
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Jun 1 15:52:07 2018 -0400
+
+    working with obstacle in view changes, still need to fix nlp.py
+
+commit 3c8ac0ec63024d1240008c572284f7314584908a
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed May 30 13:04:05 2018 -0400
+
+    working detection window turning, debigging why 3rd obstacle is showing up early
+
+commit 4d801bfc170b0e47c7da377749d8fe51acc1efe4
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Tue May 29 18:54:37 2018 -0400
+
+    added obstacle detection window, turning ok - need to find why actual detection is one time-step after the visual detection
+
+commit 4f46d7e099fda1db5a5f756e978890a6594db46d
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Tue May 29 11:33:26 2018 -0400
+
+    working code for stopping vehicle
+
+commit 741ccf8cb18504d64f9caa78af4084e671cc0dc2
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri May 25 15:20:41 2018 -0400
+
+    in the middle of fixing slowing down
+
+commit b874cbd6b42d5aa041ca245883ce665f4849cb82
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri May 25 15:13:25 2018 -0400
+
+    working examples for no=7 with different delChi, design problem defined
+
+commit 9a10e7e6a01bebb46cb4818d7fe524e1df56f753
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri May 25 12:00:42 2018 -0400
+
+     working version - before making corrections for delChi
+
+commit a28b01765b22237ff756dcc0286840a5bce7e3eb
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu May 24 14:04:44 2018 -0400
+
+    end of day 2018-05-24
+
+commit cc79e6964f408f3d8be0fe549cb540566efcc700
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu May 24 10:06:29 2018 -0400
+
+    end of day 2018-05-23
+
+commit a0fb7e550e0abbb556f2ba386a7b810fbdbe2bc5
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed May 23 15:20:12 2018 -0400
+
+    working 1 obstacle avoidance for Comparison.ppt
+
+commit 77c5af761e188883e3aadf43f805ba601210078b
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed May 23 12:27:01 2018 -0400
+
+    working for 1 obstacle without any glitches which maxiter set to 60
+
+commit dc213315f565978ce8a66f0fe4e04f07211251da
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed May 23 09:43:51 2018 -0400
+
+    adding corrected commit msg for 2nd run identical to 1st run (on 2018-05-23)
+
+commit 3f63ef4a8d8e4bbef1cabaf8975506343bb1bdfd
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed May 23 09:25:27 2018 -0400
+
+    added first run on 2018-05-22 for same settings as Laplacian for 1 obstacle
+
+commit e0b24495f7c33eb47b59de83af5c2ed48aad69ae
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Tue May 22 15:48:16 2018 -0400
+
+    working for 2 obstacles. need to explain continuation of 30 deg delChi
+
+commit cf48d101571345f8175cfce3dd180053596b5f2a
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Tue May 22 15:24:29 2018 -0400
+
+    cleaned up figures folder
+
+commit 2e6c60a8152541d160d02524ff9b93f12dad08d9
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Tue May 22 15:20:49 2018 -0400
+
+    code working with 2 obstacles
+
+commit 6d4abef90f983001c76195188c26b4cc904a49be
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Tue May 22 13:05:17 2018 -0400
+
+    added new feature - avoid obstacle in view only, works for 1 obstacle
+
+commit 0b8c4a962adf462c2979f41356f08d0a0a7c44c1
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Mon May 21 15:43:05 2018 -0400
+
+    rerun master
+
+commit 3f4f88a1a39347535d11af2cf5e54e689198b9e6
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Mon May 21 15:33:00 2018 -0400
+
+    trying to fix stop, but messed up with obstacle avoidance
+
+commit c6793c1a64519fe4012fc125acab0a954f8be9b6
+Merge: 693488b 7498a83
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed May 16 14:20:36 2018 -0400
+
+    Merge branch 'master' of https://github.com/suvoganguli/GIG-MPC
+
+commit 693488bafa309a35b310348047af17f322b9dab5
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed May 16 14:20:11 2018 -0400
+
+    before making changes in delChi
+
+commit 96cf9cac223105455c8772538cad173321aa9dae
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Tue May 15 11:54:24 2018 -0400
+
+    minor changes
+
+commit 7498a839628013fdd71c01c37c2356eb737d17ca
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Tue May 15 09:40:48 2018 -0400
+
+    Update README.md
+
+commit af364d20272b3d27f940e66eff2c16dcec02ad44
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Tue May 15 09:40:25 2018 -0400
+
+    Update README.md
+
+commit 4d2472e26f3363003b1cfab46f4b1dcd370aa76d
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Tue May 15 09:38:27 2018 -0400
+
+    Create README.md
+
+commit d69649a566c42c0e6b0b17dd2d1bf9da6b3fffea
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Tue May 15 09:05:46 2018 -0400
+
+    minor stuff
+
+commit 38b89629230bc7eb5fd07803142b7f63b076ab23
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Mon May 14 15:50:23 2018 -0400
+
+    working with obtacles with different numbers and shapes - need to figure out how to reduce the side-slip
+
+commit 5adf1a6ef48d55831e4eebe2d6f65b67960f2e5b
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Mon May 14 15:49:14 2018 -0400
+
+    working with obtacles with different numbers and shapes - need to figure out how to reduce the side-slip
+
+commit 65cfe1f493723c98222bf327cbaa7a5155ed29d3
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Mon May 14 12:05:15 2018 -0400
+
+    plotSavedData.py working. rename detection_window?
+
+commit cb35d479b3265db18da1da4863db44f844bf557d
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri May 11 09:32:40 2018 -0400
+
+    made minor changes to run a new simulation
+
+commit 4e5e0f759f75d12dc94ed03fc393fb0136da9790
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu May 10 15:31:20 2018 -0400
+
+    restored globalVars.py, added larger object - to do (a) how does global variable work? (b) break from iterations once the object is near the goal
+
+commit f4b753afc45793bbe0b536ddb1cb41e2ca95b4a3
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu May 10 15:22:13 2018 -0400
+
+    working for 2 obstacles, to do - (a) need to fix the plotSaveddata.py (b) try out different max-iter (c) different object sizes (d) how to address hallways
+
+commit 6f215c77619cf7602f7526e5f10012acefab2306
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu May 10 11:58:38 2018 -0400
+
+    works now for off-centered end point, changed arctan to arctan2 at many places. need to understand why choosing all of the weights slows increases the computation time
+
+commit 0d18165ac0bd196205440bee059cb407776025a4
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed May 9 15:37:35 2018 -0400
+
+    detected problem in pathData.py
+
+commit 323c7deb84cc1e277a9452e842594aef8f1ae940
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Tue May 8 14:03:34 2018 -0400
+
+    working on saving and plotting cost breakdown
+
+commit d3595518ad2982e8fcb47d2ebacbd70195769245
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Tue May 8 11:35:44 2018 -0400
+
+    Generation of collision free path for a full safezone around obstacle working for the first time. To do - (a) add del_Chi as a cost (b) still need to add detection_window
+
+commit f2c1e654d49df8f0f93183e7031aa5958fe88f00
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Tue May 8 09:12:24 2018 -0400
+
+    Uploaded Excel Actuals
+
+commit b192f0863b790e28c6a73f3562a7ebedaf5a2f2e
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Mon May 7 12:41:26 2018 -0400
+
+    debugging why vehicle is hitting obstacle constraint prematurely
+
+commit 4ab424b1517caa7588e7cc692c17586717828777
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Mon May 7 10:45:07 2018 -0400
+
+    removed test.txt
+
+commit 10cc7b1c657f99fcc9a593deb2c013a658e75ae4
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Mon May 7 10:26:37 2018 -0400
+
+    testing push from windows laptop by adding test.txt
+
+commit 3781a516d46b17fed841de55333d64e0917cd8c6
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Mon May 7 10:03:51 2018 -0400
+
+    added rectangular safe zone all around the obstacle
+
+commit 9f5b2130103a228fdcaf0467c439cd1903ae7877
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu May 3 11:52:32 2018 -0400
+
+    made a correction in the plotting function
+
+commit 2e44d8a6cd2da5c97875a4fab93e0f5f0f171712
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu May 3 11:31:17 2018 -0400
+
+    vehicle slows down as desiredand plot for velocity shows correctly
+
+commit 97fd8d5bd293c9bb0a89d3352b881bebc9893a4e
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu May 3 11:29:18 2018 -0400
+
+    vehicle slows down as desired
+
+commit 31ff433df3dd70301ceb6d3f9f9d7342fb1c32f6
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu May 3 09:34:58 2018 -0400
+
+    slows down correctly
+
+commit c27f8f90f37e0dc5149ae4287c5a36b7e6a63ad2
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed May 2 16:02:49 2018 -0400
+
+    working on stopping vehicle
+
+commit 2ed2adcd93dc0aa25fcf62390c56ff410f9b62a4
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed May 2 12:32:59 2018 -0400
+
+    added terminal constraint for goal delChi, more or less working - violates constraint on distance from obstacle. need to add obstacle tolerance for all points.
+
+commit 59b0f0efda61d8041dcb9e429a4d9165c2be980d
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Apr 27 11:31:59 2018 -0400
+
+    debugging of delChi in progress - why doesn't the heading start to change sooner?
+
+commit 33fa9fec7102cad389facf57d883c048944be96f
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Apr 27 10:42:36 2018 -0400
+
+    solved the goal problem!
+
+commit c83bef5deee758ab45b7fa30b8ccce758483ccfa
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu Apr 26 11:32:16 2018 -0400
+
+    debugging no. of constraints
+
+commit a8b44797559bd15da23def82afba788211a511f7
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Tue Apr 24 14:57:51 2018 -0400
+
+    change to goal in progress
+
+commit cd669db9b710ae34ddfd0022cdb929ec9969c72d
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Tue Apr 24 09:36:10 2018 -0400
+
+    added cost goal
+
+commit 4139b5539a75bc98115b1009b73279f88aa256a6
+Merge: 36ecdde ee7939c
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed Apr 18 11:45:31 2018 -0400
+
+    Merge branch 'master' of https://github.com/suvoganguli/GIG-MPC
+
+commit 36ecdde3520a189da89b60dbeb26c23e58cb924c
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed Apr 18 11:41:31 2018 -0400
+
+    fixed transition to LP trajectory after detecting pop-up obstacle
+
+commit 0cd04ee96e2200d6999332b6b7a8f32fb02c2c53
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Tue Apr 17 15:39:21 2018 -0400
+
+    working on fixing the first point in the LP, see line 131 in pathData.py
+
+commit 43dea32f2d52a5b69ee4a42db9e456987f2120b5
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Mon Apr 16 10:55:23 2018 -0400
+
+    adjusting detection window with scale factors
+
+commit ee7939cae46b1b4c1b247befd07201fc2cb8b5a1
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 28 14:38:43 2018 -0400
+
+    updated mid-term slides
+
+commit e6ec454de19d65a9d59e8b2a307600525b965724
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 28 12:07:37 2018 -0400
+
+    slides for mid-term review
+
+commit af45c76359cb8a4758ce7130a99c184f26ea1067
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 21 14:43:41 2018 -0400
+
+    scaled_up plot fixed - have problems with running at different speed and different N - need to look at infeasibility
+
+commit f440db73f4df8e585f68b69d04a48c7a22ba3bba
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 21 12:17:49 2018 -0400
+
+    working on scaling of path - path plot not working correctly
+
+commit cb04543c0ab18d1425ec274e4ea11f73e102444e
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Mon Mar 19 11:42:35 2018 -0400
+
+    path plot for demo slides
+
+commit 7bc602456afbba7ee8d906d250d533afac179da0
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Mar 16 15:06:58 2018 -0400
+
+    in the middle to addincg scaleFactor in problemData.py - added extra loops for convergence in laplacian - maynot need it
+
+commit 7c76e4ed01d2c59ecbdb56edb657c8acc93d65b7
+Merge: eb4f85f f02db61
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Mar 16 14:28:31 2018 -0400
+
+    Merge branch 'popup' of https://github.com/suvoganguli/GIG-MPC into popup. Getting error msg to pull, don't know why
+
+commit eb4f85faffbb0d60b2dde1c798200e847ed5a2ae
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Mar 16 14:25:22 2018 -0400
+
+    Reverting to previous commit - ignoring minor changes such as logFile, settings, etc. Recreated plots for no=1 with N=6 and detection window = 30 ft
+
+commit f02db61b008f5b906d8ee464831a608a33207dd5
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Mar 16 14:11:24 2018 -0400
+
+    recreated plots with larger yRoad, smaller obstacle width for no=1 - getting 2 infeasible points for the case no=1 but none for no=2
+
+commit 696ad1674c94ba4740f3a4e83a3242b721e34785
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Mar 16 13:13:37 2018 -0400
+
+    reverting back to 9f5abb227aa852ee58bd92eb37a426ce04ed6526
+
+commit 46c0fed93ea9858536ffb9131d448d3112ce5b80
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Mar 16 13:10:56 2018 -0400
+
+    something went wrong - not plotting two obstacles for no=2
+
+commit 9f5abb227aa852ee58bd92eb37a426ce04ed6526
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Mar 16 12:37:07 2018 -0400
+
+    added code and plots for popup obstacle (no=1)
+
+commit e264415fabe8c9e27eb2ffde2203bae89de7b71a
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Fri Mar 16 09:28:40 2018 -0400
+
+    added code and plots for popup obstacle (no=1)
+
+commit 2ba6a5808936ac9de74bb06be2ee09e49d2af49c
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu Mar 15 15:15:27 2018 -0400
+
+    added code for pop-up obstacle. need to merge the laplacian path in one plot
+
+commit 8b0d4817b88224abd43d7c1734fa570f3f268acb
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Thu Mar 15 13:26:53 2018 -0400
+
+    completed case study for V = 10 mph
+
+commit 8b29aac7ef1eb547638860ff8f4689a5c7ee21ee
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Thu Mar 15 12:33:35 2018 -0400
+
+    updated plotSavedData to overlay plots for diffenent V_cmd
+
+commit 1cf0126b143780251b65be0171322d352769fdcd
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Thu Mar 15 09:58:53 2018 -0400
+
+    updated mid-term ppt and ppt short
+
+commit fdb0b81024d6fa10d2e3d30b8b46dcc5ed1b6770
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Thu Mar 15 09:21:05 2018 -0400
+
+    added plots for large T
+
+commit 63269ceccba583e54e733c3edbcfd23e13a51a0c
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 14 15:40:06 2018 -0400
+
+    updated ppt with design tradeoff plots for variation in (N,T)
+
+commit 4da1eb93c3021d5cc898be01ad8fe5c0793d59aa
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 14 15:26:36 2018 -0400
+
+    added overlay plots for Chi-Chidot, path, cputime and cpu-mean-time vs T
+
+commit b453d6d294a28b808aeca4b6ed8f0abd33aab392
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 14 14:54:25 2018 -0400
+
+    added cpuMeanTime vs T plot
+
+commit a8ed90a4f304e133be5d4b28e5847fc74d75204c
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 14 14:39:06 2018 -0400
+
+    added tradeoff plots for T
+
+commit f8107d7448966bad0cb35309fa4dff1b099418ff
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 14 14:38:48 2018 -0400
+
+    added tradeoff plots for T
+
+commit 10dd2c00d85b104cd1de2b74f14196ffd881ba91
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 14 13:24:40 2018 -0400
+
+    ppt done - need explanation for CT vs ns
+
+commit 31d30f77f046f218e01b3235204aaab3794954fc
+Merge: 6d55078 897e8f6
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 14 10:37:35 2018 -0400
+
+    Merge branch 'master' of https://github.com/suvoganguli/GIG-MPC (pull ppt from windows)
+
+commit 6d5507856ebef702287efb78e684557aa9827571
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 14 10:36:46 2018 -0400
+
+    added ns tradeoff plots
+
+commit 897e8f6094c985f116b2e8c81e67ce74fb3c8c7f
+Author: Suvo Ganguli <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 14 09:46:14 2018 -0400
+
+    updated date in ppt
+
+commit 161b2ddebadc0c308a8309f7cceaa0a67d112211
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Wed Mar 14 09:32:05 2018 -0400
+
+    updated ppt and renamed one plot
+
+commit 95c0ba90dcbf03d2a9d6f87062fab6200161731e
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Tue Mar 13 14:05:01 2018 -0400
+
+    updated ppt ... in progress
+
+commit a449d1cca8c215eff3f79d1402b6211e19656374
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Mar 13 13:58:36 2018 -0400
+
+    added cputime vs iter overlay plot
+
+commit 2497f771a12b22509c739a554f299ff88724a03a
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Mar 13 13:53:19 2018 -0400
+
+    added cpuMeanTime tradeoff plots
+
+commit 0cb3b0a4e982c5746b8d0da9a097fed40f6a4e4d
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Mar 13 13:28:14 2018 -0400
+
+    Updated Vddot-Chiddot plots
+
+commit 5d224caa3ae82c401002bed1819b60ea6f78a392
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Tue Mar 13 12:50:33 2018 -0400
+
+    corrections during ppt creation - filename, and updated ppt
+
+commit 691526fb705b23790306477b32fdbead4e2c5226
+Merge: b992f31 3a86f79
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Mar 13 12:11:44 2018 -0400
+
+    Merge branch 'tradeoffs'
+
+commit b992f315adffbb2a569e9385adbe8af7e5078a10
+Merge: ee23273 a8396b7
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Mar 13 12:09:11 2018 -0400
+
+    Merge branch 'master' of https://github.com/suvoganguli/GIG-MPC
+
+commit 3a86f7997c635d106cff058fdc9e31b3f25c17a5
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Mar 13 12:05:49 2018 -0400
+
+    run directory cleanup, update README and ToDo
+
+commit ee232737520aeff9c0d0bd3ebe5111728f4d9c04
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Mar 13 11:52:18 2018 -0400
+
+    added plot for solver iterations vs trajectory steps
+
+commit a8396b71777ec0a5bbda4755919e0f491f1c6bae
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Tue Mar 13 11:06:05 2018 -0400
+
+    added ppt from windows laptop
+
+commit d6ecb33d32a42481653adeac4183f2c0f13c5cc6
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Mar 13 11:01:34 2018 -0400
+
+    completed tradeoffs
+
+commit 087b7e300f932cc285c0d45f69414fd4d3e8288a
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Mon Mar 12 13:34:07 2018 -0400
+
+    cleaned up generated files
+
+commit 8df9fe97fa1862755b949453ce67de8b34e5f1d9
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Mon Mar 12 13:31:36 2018 -0400
+
+    added path plot from plotSavedData
+
+commit 7ad68e71c30b99b17f3e4af83f68779acc83ca95
+Merge: 062c822 b0b3a39
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Mon Mar 12 09:16:10 2018 -0400
+
+    Merge branch 'tradeoffs'
+
+commit b0b3a39206709c40c60b28de786e2119e76ff149
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Mon Mar 12 09:15:20 2018 -0400
+
+    tradeoff plots for smoothness
+
+commit 062c822a71dcf1c08b0890deff562ba364b5ee5d
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Fri Mar 9 09:01:52 2018 -0500
+
+    clean up backup .xlsx file
+
+commit a52efeac1e29d86f0616e02ec41ea64cdd3d2854
+Merge: 460a71f c41e525
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Thu Mar 8 15:33:01 2018 -0500
+
+    Merge branch 'tradeoffs'
+
+commit c41e525f7b57b9b9108238df7513e7ddde3266df
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Thu Mar 8 15:31:55 2018 -0500
+
+    added tradeoff curves
+
+commit 460a71f98aabb3af9acfa623bdbbd7b6c1bd3219
+Merge: 3241805 7074cfe
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Thu Mar 8 12:08:27 2018 -0500
+
+    Merge branch 'tradeoffs'
+
+commit 7074cfe09bce65311e8efda862548f3b1305707b
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Thu Mar 8 12:08:01 2018 -0500
+
+    removed logFile.txt from tradeoffs to help merge
+
+commit 37f8f57ee0d4d10686f7fc3bfadf47d7854989e0
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Thu Mar 8 12:02:59 2018 -0500
+
+    renamed all data and plot files to add 0 at after N
+
+commit 3241805aab99f4fb9553b968bb6427e9e73b5697
+Merge: 12c5ca9 621e4e7
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 7 11:50:19 2018 -0500
+
+    removed logFile.txt - 2nd time
+
+commit 12c5ca95833e4ed61f261e247d043dd2dba38bfa
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 7 11:46:36 2018 -0500
+
+    removed old run-2018-03-06 with 4 files
+
+commit 621e4e73caf76f9194ec846f9c8784a696d04a6c
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 7 11:29:50 2018 -0500
+
+    restore correct pausing for plots in Main.py
+
+commit 7fd662b6267507fb00f826fe48aed9a06a474494
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Mar 7 10:32:49 2018 -0500
+
+    added 3 more constraints to settings for plotting
+
+commit e06a896d85f38baff943ade8b5946932f133eff7
+Merge: 7a6c981 c98b0c0
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Mar 6 11:11:32 2018 -0500
+
+    Merge branch 'master' of https://github.com/suvoganguli/GIG-MPC
+
+commit 7a6c981de0838abcac4c67d8261f1037f23e0f32
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Mar 6 11:11:00 2018 -0500
+
+    rerun master to check if zoom functionality for fig1 is working or not. no change made
+
+commit 40b9d86df5b14043f4318ab3dec6c9a09f8b4083
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Mar 6 11:07:38 2018 -0500
+
+    trying to add zoom to fig1
+
+commit c98b0c0ab71c17c1a3913cee387b439b6f5fea6d
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Mar 2 09:08:49 2018 -0500
+
+    working on printPlot with new plotSavedData
+
+commit 41e8faefd475120f3b730aee1d4f00fb42a4df73
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Thu Mar 1 11:07:26 2018 -0500
+
+    fixed plotSavedData.py
+
+commit e92a4da8043a4491e039fb028fe1389b359c6264
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Feb 28 15:29:14 2018 -0500
+
+    added plotSavedData - not working for ns=6
+
+commit 7f96971106b1383ba278c54f353a4566d2b41c99
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Feb 20 17:42:28 2018 -0500
+
+    CT_vs_N and CT_vs_ns (redo for wider dy)
+
+commit 8f24b70c0471cd176dc0242bc40e11b0946737be
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Feb 20 15:41:09 2018 -0500
+
+    Solver Iterations
+
+commit 7d16154900f99d8b558fe0fd9032851576c0cd51
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Feb 20 12:02:42 2018 -0500
+
+    added terminal velocity plot
+
+commit f5a8a1a2278d58285bda38d5fbacf5e795da6e79
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Feb 20 10:21:07 2018 -0500
+
+    Added CT vs ns plots
+
+commit db9af51ecbd82a5d6189eeca1d845d161c28b6dd
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Mon Feb 19 16:15:52 2018 -0500
+
+    CT vs ns complete
+
+commit 451786acb5e03efa268b94a5bc5a88835e60fff6
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Mon Feb 19 13:59:01 2018 -0500
+
+    CT vs ns almost complete, N=8 case left
+
+commit c8c91c56ab0c1fb8ed327d9381fba413a3395608
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Mon Feb 19 10:42:55 2018 -0500
+
+    logfile and plot from last run
+
+commit 75bd5c27e055c053b2c27fba02ff47db1148c338
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Thu Feb 15 11:40:36 2018 -0500
+
+    added latest version of 2D Results.pptx
+
+commit fe4d4267f5084c101a31a4ec33c39f217ed603d1
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Thu Feb 15 11:39:02 2018 -0500
+
+    removed old 2D Results.pptx
+
+commit f10cf47812b14f7dafa762d3f47853b755fd554d
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Thu Feb 15 10:42:12 2018 -0500
+
+    Updated ppt for CT vs ns (in progress)
+
+commit e9566a2db28c61a6f2b694a5c0da308921d87ba3
+Merge: 43670a3 8df4020
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Feb 14 15:05:55 2018 -0500
+
+    Merge branch 'master' of https://github.com/suvoganguli/GIG-MPC
+    
+    Git pull to get ppt slides loaded from win laptop
+
+commit 43670a34d18e00071eb894ea32c60c3d53871ff6
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Feb 14 15:02:19 2018 -0500
+
+    repeated expts for ns=4,6 (2)
+
+commit 8d19cb933dfea87110cb44d22b5a4c0b2d18dcaa
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Feb 14 12:15:18 2018 -0500
+
+    ns_option working for both ns=4,6
+
+commit 81cb64fd07a73418a0b73fdf4e56d25ed2907890
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Wed Feb 14 11:22:48 2018 -0500
+
+    only ns_option=2 working for ns=6
+
+commit 8df4020751cb7cf958502c567179a355e215ddf4
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Tue Feb 13 15:44:10 2018 -0500
+
+    Added PowerPoint slides
+
+commit 4bcee20f704d4a4c48173b1f2d9836465a6b037e
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Feb 13 15:26:06 2018 -0500
+
+    fixed T in title for plots
+
+commit 7e2144b422d79833949d6b2f8ae98a81bee837f4
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Feb 13 14:54:30 2018 -0500
+
+    updates figure for N4_Tp4_ns4_no1 and .py files
+
+commit 440801f46995aa04bd0781cc5a38a8d8b8c205ab
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Feb 13 13:57:24 2018 -0500
+
+    Added path_MPC.png for slides
+
+commit 1550f62e384a5b2212ec9a2751577d775662bdd6
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Tue Feb 13 12:45:54 2018 -0500
+
+    runs for N=4,6,8 no=0,1,2
+
+commit 5038bfdb45c66dbfd42b24eda57b52157a52f263
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Mon Feb 12 15:44:15 2018 -0500
+
+    added pathWidth as variable
+
+commit e53a99034533823358f61ff2bddbecd18ab0600e
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Mon Feb 12 14:52:51 2018 -0500
+
+    removed .idea/*
+
+commit 5dc78d5cd6d81a6f74b2c21142623a51662338f5
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Mon Feb 12 14:42:20 2018 -0500
+
+    updated README.md, removed *.pyc
+
+commit 2129ba907ca1b3c8130f0e091c4bf85e63fd5613
+Author: Suvo <subhabrata.ganguli@gmail.com>
+Date:   Mon Feb 12 14:38:37 2018 -0500
+
+    fixed lat accel constraint, added auto-saving
+
+commit 6e14c47337b381eb5c19e8531b1ca8c18d799ef2
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Thu Feb 8 15:39:04 2018 -0500
+
+    data, plots for CT vs no
+
+commit 4d931bc92d97eb1da812f76278d88bc37d9a64e6
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Thu Feb 8 09:35:11 2018 -0500
+
+    minor adjustment at end point of path - works better
+
+commit 9bd732464205bdf7c37777b5d998257f6988d21c
+Merge: f3fe90a 4f99575
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Thu Feb 8 08:45:46 2018 -0500
+
+    Merge branch 'newpath'
+
+commit 4f99575cbb4f4d40546b61382a6b4341cd7c9f11
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Thu Feb 8 08:45:10 2018 -0500
+
+    removing ./idea/workspace.xml
+
+commit ec712eef498c0a5baaed3a97eddf30f962ba3d92
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Wed Feb 7 18:54:07 2018 -0500
+
+    path at end point finally fixed
+
+commit f62f8b73db0aa68c78c168ce1a641f2492565be1
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Wed Feb 7 18:18:43 2018 -0500
+
+    working again
+
+commit 21d970cabb7c3e283b421160a1eb2671a7c1edea
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Tue Feb 6 17:31:33 2018 -0500
+
+    added LP based new path
+
+commit f3fe90a8bdb242765e9593ba8fd377a87e7c602c
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Tue Feb 6 14:24:52 2018 -0500
+
+    removing .idea
+
+commit ff0a618900175d9f7ee506195d0535d703a0ea30
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Tue Feb 6 14:16:19 2018 -0500
+
+    debugging LP
+
+commit 336abb5607516aaf07f97c437e6058c8f270bb4f
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Feb 2 15:29:16 2018 -0500
+
+    in progress, construct 3D obstacle data
+
+commit 0366bc0bc0f2ebcbfd8fa84b8eeb811461383a57
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Feb 2 14:36:31 2018 -0500
+
+    default path working
+
+commit cbb1498f37ab979159891fce957e4fec3c1b4f19
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Feb 2 13:23:13 2018 -0500
+
+    master version working
+
+commit 2a4b7f0fdae01aaacfe7d8bdd23d599e8a006d50
+Merge: 3f130ea 6e45cd3
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Feb 2 12:28:16 2018 -0500
+
+    Merge branch 'init'
+
+commit 6e45cd3ea3bcecab95ead41ef0fa6ea05bc787cd
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Feb 2 12:26:45 2018 -0500
+
+    clean add laplacian.py
+
+commit 8dac5bfcedd7d97b6f9bea5ddb52302b741ff7d1
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Thu Feb 1 15:34:24 2018 -0500
+
+    working laplacian.py
+
+commit 5aa185048ee021110cc592e6712adb40933b7f41
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Jan 26 18:10:15 2018 -0500
+
+    need to debug laplacian.py
+
+commit 2112332d58af62dc8d4088ada95aa857ceeef5c7
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Jan 26 12:25:10 2018 -0500
+
+    saving laplacianPlanner.py
+
+commit 998735b1d33608c47febdecb9e30a465f0210d4a
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Jan 26 11:43:00 2018 -0500
+
+    removing LP from gitlab, not installing
+
+commit 6cce5738611975dcd4598351b66bd1334a003413
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Jan 26 11:27:29 2018 -0500
+
+    adding LP to gitlab
+
+commit 3f130eacb887e508ef6fcfc67703d3f4205ad370
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Jan 26 10:04:41 2018 -0500
+
+    moving master from origin to gitlab
+
+commit 15b93a003aea78573ef92997f82b3f3fb8e88062
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Jan 26 09:51:50 2018 -0500
+
+    rm LP
+
+commit 27a2f69ad6c7420d104876e0c058f48313a15d06
+Author: Suvo Ganguli <subhabrata.ganguli@honeywell.com>
+Date:   Fri Jan 26 09:40:44 2018 -0500
+
+    First commit for LP
+
+commit e047aa8e0fbabda963e42d144365f162732ea03e
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Thu Jan 25 13:45:39 2018 -0500
+
+    added obstacle detection
+
+commit 6e89c49f806e8222318d4fa1581bc10174520b3f
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Thu Jan 25 12:46:58 2018 -0500
+
+    Adding .idea to branch init
+
+commit ac66db35bbae0c414e60397151b9fb86ef90b97f
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Thu Jan 25 11:46:13 2018 -0500
+
+    changed date
+
+commit 3b5a4c631a62ad91c5a7ea7716c363eb174601b6
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Thu Jan 25 11:10:57 2018 -0500
+
+    chmod 664 nmpc.py
+
+commit 592c96151c5f29ec5983989f044ec966d8196ddf
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Wed Jan 24 15:47:26 2018 -0500
+
+    deleted folders, added plotStats.py
+
+commit 8c57f6ee84fb6cb6f6abdb94f925dd49225241fe
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Wed Jan 24 15:42:21 2018 -0500
+
+    Updated README.md for merged version
+
+commit 38e5ef24c9da96fdc0f4ad193a9942c4c9208513
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Wed Jan 24 15:40:58 2018 -0500
+
+    cleanup
+
+commit 7537b9752efc76e35d9526628405b0194d1bb229
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Wed Jan 24 15:38:49 2018 -0500
+
+    removed v1 directory
+
+commit c4d1a45962d78638f3ef3c9d700546ebcd2da2bf
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Wed Jan 24 15:21:25 2018 -0500
+
+    removed *.pyc files
+
+commit 9f2423a2603595e7f38050a6d579b0ce8ec0863c
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Wed Jan 24 15:11:58 2018 -0500
+
+    merged optimal grid-search changes
+
+commit ce7b8ee0e1d75935115106179ca7b6a89565207a
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Wed Jan 24 15:05:22 2018 -0500
+
+    First working version
+
+commit 66a4ba7a93c9545f6817fff64727637b69c8b65f
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Jan 19 13:10:35 2018 -0500
+
+    Adding v1 (not working)
+
+commit 6814f44b52deccdf9a24d67f532050b56e9b326b
+Author: Suvo <subhabrata.ganguli@honeywell.com>
+Date:   Fri Jan 19 13:06:47 2018 -0500
+
+    First commit
